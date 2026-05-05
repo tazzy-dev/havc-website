@@ -65,7 +65,7 @@ function Home() {
             </span>
             <h1 className="font-display text-5xl font-bold leading-[1.05] tracking-tight text-balance sm:text-6xl lg:text-7xl">
               Cool home.<br />
-              <span className="bg-gradient-hero bg-clip-text text-transparent">Honest pricing.</span>
+              <span>Honest pricing.</span>
             </h1>
             <p className="mt-6 max-w-xl text-lg text-muted-foreground">
               $29 service call — free with any repair. Flat-rate pricing told to you before we lift a wrench. Same-day service across Fort Worth, Keller, NRH and surrounding areas.
